@@ -10,3 +10,5 @@
 02 	add + commit
 03 	Branch PrimeraRama + checkout PrimeraRama
 04	add + commit
+05 	Branch SegundaRama + checkout SegundaRama
+06 	add + commit
