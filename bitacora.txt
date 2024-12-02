@@ -25,4 +25,5 @@
 17	checkout master
 18 	stash apply
 19 	add + commit
+20 	push origin Master
 
