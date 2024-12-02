@@ -27,3 +27,9 @@
 19 	add + commit
 20 	push origin Master
 21 	checkout SegundaRama
+22 	Crear PasosExtras.txt
+23 	add + commit
+24 	checkout master
+25	cherrypick		
+26 	add + commit	
+27	push origin Master
