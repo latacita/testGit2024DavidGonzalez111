@@ -8,5 +8,21 @@
 ====== ============================ 		================================
 01	Clone
 02 	add + commit
-
+03 	Branch PrimeraRama + checkout PrimeraRama
+04	add + commit
+05 	Branch SegundaRama + checkout SegundaRama
+06 	add + commit
+07	push origin SegundaRama
+08	checkout master
+09	stash + checkout PrimeraRama
+10	add + commit
+11 	checkout SegundaRama
+12	Recursion		Seria por recursión ya que el archivo bitácora esta en diferentes versiones en la rama PrimeraRama en comparación con SegundaRama 
+13	Recursion		Seria por recursión ya que el archivo bitácora esta en diferentes versiones en la rama PrimeraRama en comparación con Master 
+14	add + commit
+15 	checkout PrimeraRama
+16	merge --no-ff SegundaRama
+17	checkout master
+18 	stash apply
+19 	add + commit
 
